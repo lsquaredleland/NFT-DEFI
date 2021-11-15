@@ -68,3 +68,20 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Insurance         |               |                   |                  |                                                     |
 | NFT Tranching         |               |                   |                  |                                                     |
 | NFT Bridges           |               |                   |                  |                                                     |
+
+### Taxonomy Definition
+
+_NFT Trading_ - how users trade NFTs with each other, a mix of p2p and AMM based trading
+_NFT Marketplaces_ - unlike trading, these applications focus on discovery and the creation of NFTs alongside the ability to buy and sell.
+_NFT Fractionalization_ - Converting NFTs into a tokenized representation
+_NFT Lending_ - Borrowing against one’s NFTs and providing liquidity to earn yield
+_NFT ETFs_ - Basket of NFTs and indices of arbitrary NFT collections
+_NFT Perpetuals_ - Instead of trading individual NFTs, now trade a liquid synthetic representation of a collection of NFTs
+_NFT Options_ - The ability to buy or sell an option on an NFT. Sell covered calls for passive income or speculate on the future price with options in a capital efficient manner
+_NFT Crowd Buying_ - Enabling a group of individuals to buy NFTs together
+_NFT Insurance_ - Underwriting the value of an NFT in case a protocol is hacked
+_NFT Chains / L2s_ - Specific chains and L2s that are NFT first
+_NFT Bridges_ - Connecting NFTs with multiple blockchains, potentially moving them to places with more sophisticated auction protocols or more liquid DeFi opportunities.
+_NFT Privacy_ - Making NFTs private, either the data or the ownership
+_NFT Analytics_ - helping people understand the what is happening within an NFT collection
+
