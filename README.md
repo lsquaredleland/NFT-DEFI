@@ -1,6 +1,9 @@
 # NFT-DEFI
 Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 
+![graphic](NFTxDeFi.png)
+
+
 | Category              | Sub Category   | Name              | Twitter          | Link                                                |
 |-----------------------|----------------|-------------------|------------------|-----------------------------------------------------|
 | NFT Trading           | Centralized    | FTX.US            | @FTX_Official    | https://ftx.com/en/nfts                             |
@@ -18,6 +21,10 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Marketplace       |                | Zora              | @ourZORA         | https://zora.co/                                    |
 | NFT Marketplace       |                | Shoyu NFT         | @SHOYU_NFT       | https://www.shoyunft.com/                           |
 | NFT Marketplace       |                | Artion            |                  | https://artion.io/                                  |
+| NFT Marketplace       |                | Nifty Gateway     | @niftygateway    |  https://niftygateway.com/                          |
+| NFT Marketplace       |                | Foundation        | @withFND         |  foundation.app                                     |
+| NFT Marketplace       |                | Makersplace       | @makersplaceco   |  https://makersplace.com/                           |
+| NFT Marketplace       |                | Mintable          | @mintable_app    |  https://mintable.app/                              |
 | NFT Marketplace       |                | Infinity          | @infinitydotxyz  | https://infinity.xyz/                               |
 | NFT Marketplace       |                | Solanart          | @SolanartNFT     | https://solanart.io/                                |
 | NFT Marketplace       |                | Magic Eden        | @MagicEden_NFT   | https://magiceden.io/                               |
@@ -45,11 +52,14 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Lending           |                | Drops             | @dropsnft        | https://drops.co/                                   |
 | NFT Lending           |                | Themis            | @OfficialThemis  | https://themis.exchange/                            |
 | NFT Lending           |                | NiftyPays         | @Nifty_pays      | https://www.niftypays.com/                          |
-| NFT Analytics         |                | Rarity.tool       | @raritytools     | https://rarity.tools                                |
+| NFT Analytics         |                | Rarity.tool       | @raritytools     | https://rarity.tools/                               |
 | NFT Analytics         |                | Evaluate.market   | @EvaluateMarket  | https://evaluate.market                             |
 | NFT Analytics         |                | Nansen.ai         | @nansen_ai       | https://www.nansen.ai/                              |
 | NFT Analytics         |                | NiftyRiver        | @niftyriverio    | https://www.niftyriver.io/                          |
 | NFT Analytics         |                | Icy.tools         | @icy_tools       | https://icy.tools/                                  |
+| NFT Analytics         |                | Non Fungible      | @nonfungibles    |  nonfungible.com                                    |
+| NFT Analytics         |                | DappRadar         | @DappRadar       |  https://dappradar.com/nft                          |
+| NFT Analytics         |                | RankNFT.io        | @ranknftio       |  https://ranknft.io/                                |
 | NFT Analytics         |                | NFT stats         | @nft_tracker     | https://www.nft-stats.com/                          |
 | NFT Analytics         |                | Dune Analytics    | @DuneAnalytics   | https://dune.xyz/                                   |
 | NFT Analytics         |                | Upshot            | @UpshotHQ        | https://upshot.io/                                  |
@@ -66,6 +76,7 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Chains / L2s      |                | Anoma             | @anomanetwork    | https://anoma.network/                              |
 | NFT Chains / L2s      |                | Unifty            | @unifty_com      | https://unifty.io/                                  |
 | NFT Chains / L2s      |                | Stargaze          | @StargazeZone    | https://stargaze.zone/                              |
+| NFT Chains / L2s      |                | Flow              | @flow_blockchain | https://www.onflow.org/                             |
 | NFT Chains / L2s      |                | zkSync            | @zksync          | https://zksync.io/dev/nfts.html                     |
 | Private NFTs          |                | LIT Protocol      | @LitProtocol     | https://litprotocol.com/                            |
 | Private NFts          |                | ZK NFTs           |                  | https://github.com/centrifuge/zk-nft-demo-contract  |
