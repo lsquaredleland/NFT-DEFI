@@ -6,31 +6,31 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 
 | Category              | Sub Category   | Name              | Twitter          | Link                                                |
 |-----------------------|----------------|-------------------|------------------|-----------------------------------------------------|
-| NFT Trading           | Centralized    | FTX.US            | @FTX_Official    | https://ftx.com/en/nfts                             |
-| NFT Trading           | Centralized    | CNFT              | @CNFT_IO         | https://cnft.io/                                    |
-| NFT Trading           | Centralized    | Coinbase          | @Coinbase_NFT    | https://coinbase.com/                               |
-| NFT Trading           | Decentralized  | LSSVM             |                  | https://0xmons.xyz/assets/nftamm.pdf                |
-| NFT Trading           | Decentralized  | 0x Native         | @0xProject       | https://0x.org/                                     |
-| NFT Trading           | Decentralized  | NFT Trader        | @NftTrader       | https://www.nfttrader.io/                           |
-| NFT Trading           | Decentralized  | Sudoswap          | @sudoswap        | https://sudoswap.xyz/#/                             |
-| NFT Trading           | Decentralized  | Genie             | @genie_xyz       | https://genie.xyz                                   |
-| NFT Trading           | Decentralized  | Burnt             | @burntfinance    | https://www.burnt.com/                              |
-| NFT Marketplace       |                | Opensea           | @opensea         | https://opensea.io/                                 |
-| NFT Marketplace       |                | Rarible           | @rarible         | https://rarible.com/                                |
-| NFT Marketplace       |                | SuperRare         | @SuperRare       | https://superrare.com/                              |
-| NFT Marketplace       |                | Zora              | @ourZORA         | https://zora.co/                                    |
-| NFT Marketplace       |                | Shoyu NFT         | @SHOYU_NFT       | https://www.shoyunft.com/                           |
-| NFT Marketplace       |                | Artion            |                  | https://artion.io/                                  |
-| NFT Marketplace       |                | Nifty Gateway     | @niftygateway    |  https://niftygateway.com/                          |
-| NFT Marketplace       |                | Foundation        | @withFND         |  foundation.app                                     |
-| NFT Marketplace       |                | Makersplace       | @makersplaceco   |  https://makersplace.com/                           |
-| NFT Marketplace       |                | Mintable          | @mintable_app    |  https://mintable.app/                              |
-| NFT Marketplace       |                | Infinity          | @infinitydotxyz  | https://infinity.xyz/                               |
-| NFT Marketplace       |                | Solanart          | @SolanartNFT     | https://solanart.io/                                |
-| NFT Marketplace       |                | Magic Eden        | @MagicEden_NFT   | https://magiceden.io/                               |
-| NFT Marketplace       |                | DigitalEyes       | @digitaleyesnft  | https://digitaleyes.market/                         |
-| NFT Marketplace       |                | Solsea            | @SolSeaNFT       | https://solsea.io/                                  |
-| NFT Marketplace       |                | Exchange Art      | @exchgart        | https://exchange.art/                               |
+| NFT Trading           | Protocols      | LSSVM             |                  | https://0xmons.xyz/assets/nftamm.pdf                |
+| NFT Trading           | Protocols      | 0x                | @0xProject       | https://0x.org/                                     |
+| NFT Trading           | Protocols      | Burnt             | @burntfinance    | https://www.burnt.com/                              |
+| NFT Trading           | p2p OTC        | NFT Trader        | @NftTrader       | https://www.nfttrader.io/                           |
+| NFT Trading           | p2p OTC        | Sudoswap          | @sudoswap        | https://sudoswap.xyz/#/                             |
+| NFT Trading           | Marketplace    | Genie             | @genie_xyz       | https://genie.xyz                                   |
+| NFT Trading           | Marketplace    | FTX.US            | @FTX_Official    | https://ftx.com/en/nfts                             |
+| NFT Trading           | Marketplace    | CNFT              | @CNFT_IO         | https://cnft.io/                                    |
+| NFT Trading           | Marketplace    | Coinbase          | @Coinbase_NFT    | https://coinbase.com/                               |
+| NFT Trading           | Marketplace    | Opensea           | @opensea         | https://opensea.io/                                 |
+| NFT Trading           | Marketplace    | Rarible           | @rarible         | https://rarible.com/                                |
+| NFT Trading           | Marketplace    | SuperRare         | @SuperRare       | https://superrare.com/                              |
+| NFT Trading           | Marketplace    | Zora              | @ourZORA         | https://zora.co/                                    |
+| NFT Trading           | Marketplace    | Shoyu NFT         | @SHOYU_NFT       | https://www.shoyunft.com/                           |
+| NFT Trading           | Marketplace    | Artion            |                  | https://artion.io/                                  |
+| NFT Trading           | Marketplace    | Nifty Gateway     | @niftygateway    |  https://niftygateway.com/                          |
+| NFT Trading           | Marketplace    | Foundation        | @withFND         |  foundation.app                                     |
+| NFT Trading           | Marketplace    | Makersplace       | @makersplaceco   |  https://makersplace.com/                           |
+| NFT Trading           | Marketplace    | Mintable          | @mintable_app    |  https://mintable.app/                              |
+| NFT Trading           | Marketplace    | Infinity          | @infinitydotxyz  | https://infinity.xyz/                               |
+| NFT Trading           | Marketplace    | Solanart          | @SolanartNFT     | https://solanart.io/                                |
+| NFT Trading           | Marketplace    | Magic Eden        | @MagicEden_NFT   | https://magiceden.io/                               |
+| NFT Trading           | Marketplace    | DigitalEyes       | @digitaleyesnft  | https://digitaleyes.market/                         |
+| NFT Trading           | Marketplace    | Solsea            | @SolSeaNFT       | https://solsea.io/                                  |
+| NFT Trading           | Marketplace    | Exchange Art      | @exchgart        | https://exchange.art/                               |
 | NFT ETF               |                | NFTX              | @NFTX_           | https://nftx.io/                                    |
 | NFT ETF               |                | NFT20             | @nft20trades     | https://nft20.io/                                   |
 | NFT ETF               |                | Project X         | @ProjectX_NFT    | https://www.projectxnft.com/                        |
@@ -52,6 +52,7 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Lending           |                | Drops             | @dropsnft        | https://drops.co/                                   |
 | NFT Lending           |                | Themis            | @OfficialThemis  | https://themis.exchange/                            |
 | NFT Lending           |                | NiftyPays         | @Nifty_pays      | https://www.niftypays.com/                          |
+| NFT Lending           |                | NFT Pawn Shop     | @NFTPawnShop     |                                                     |
 | NFT Analytics         |                | Rarity.tool       | @raritytools     | https://rarity.tools/                               |
 | NFT Analytics         |                | Evaluate.market   | @EvaluateMarket  | https://evaluate.market                             |
 | NFT Analytics         |                | Nansen.ai         | @nansen_ai       | https://www.nansen.ai/                              |
@@ -92,20 +93,3 @@ Large list of NFT DeFi projects, with a questionable taxonomy and grouping
 | NFT Bridges           |                | Anyswap           | @AnyswapNetwork  | https://anyswap.exchange/                           |
 | NFT Insurance         |                |                   |                  |                                                     |
 | NFT Tranching         |                |                   |                  |                                                     |
-
-### Taxonomy Definition
-
-* _NFT Trading_ - how users trade NFTs with each other, a mix of p2p and AMM based trading
-* _NFT Marketplaces_ - unlike trading, these applications focus on discovery and the creation of NFTs alongside the ability to buy and sell.
-* _NFT Fractionalization_ - Converting NFTs into a tokenized representation
-* _NFT Lending_ - Borrowing against one’s NFTs and providing liquidity to earn yield
-* _NFT ETFs_ - Basket of NFTs and indices of arbitrary NFT collections
-* _NFT Perpetuals_ - Instead of trading individual NFTs, now trade a liquid synthetic representation of a collection of NFTs
-* _NFT Options_ - The ability to buy or sell an option on an NFT. Sell covered calls for passive income or speculate on the future price with options in a capital efficient manner
-* _NFT Crowd Buying_ - Enabling a group of individuals to buy NFTs together
-* _NFT Insurance_ - Underwriting the value of an NFT in case a protocol is hacked
-* _NFT Chains / L2s_ - Specific chains and L2s that are NFT first
-* _NFT Bridges_ - Connecting NFTs with multiple blockchains, potentially moving them to places with more sophisticated auction protocols or more liquid DeFi opportunities.
-* _NFT Privacy_ - Making NFTs private, either the data or the ownership
-* _NFT Analytics_ - helping people understand the what is happening within an NFT collection
-
