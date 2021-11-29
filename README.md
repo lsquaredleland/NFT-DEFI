@@ -1,5 +1,5 @@
 # NFT-DEFI
-Large list of NFT DeFi projects, with a questionable taxonomy and grouping
+Large list of NFT DeFi projects, with a questionable taxonomy and grouping.
 
 ![graphic](NFTxDeFi.png)
 
